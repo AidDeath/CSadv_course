@@ -20,7 +20,7 @@ namespace Task3
             Mouse oneMoreMouse = new Mouse();
 
             //Кот мяукает
-            Cat.GetInstance().Meow();
+            littleKitty.Meow();
 
 
         }
