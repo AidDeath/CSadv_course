@@ -1,0 +1,16 @@
+C:\Users\aidde\source\repos\CSadv_course\4. CSadv_delegates_events\CSadv_delegates_events\Task2\bin\Debug\net5.0\Task2.exe
+C:\Users\aidde\source\repos\CSadv_course\4. CSadv_delegates_events\CSadv_delegates_events\Task2\bin\Debug\net5.0\Task2.deps.json
+C:\Users\aidde\source\repos\CSadv_course\4. CSadv_delegates_events\CSadv_delegates_events\Task2\bin\Debug\net5.0\Task2.runtimeconfig.json
+C:\Users\aidde\source\repos\CSadv_course\4. CSadv_delegates_events\CSadv_delegates_events\Task2\bin\Debug\net5.0\Task2.runtimeconfig.dev.json
+C:\Users\aidde\source\repos\CSadv_course\4. CSadv_delegates_events\CSadv_delegates_events\Task2\bin\Debug\net5.0\Task2.dll
+C:\Users\aidde\source\repos\CSadv_course\4. CSadv_delegates_events\CSadv_delegates_events\Task2\bin\Debug\net5.0\ref\Task2.dll
+C:\Users\aidde\source\repos\CSadv_course\4. CSadv_delegates_events\CSadv_delegates_events\Task2\bin\Debug\net5.0\Task2.pdb
+C:\Users\aidde\source\repos\CSadv_course\4. CSadv_delegates_events\CSadv_delegates_events\Task2\obj\Debug\net5.0\Task2.csprojAssemblyReference.cache
+C:\Users\aidde\source\repos\CSadv_course\4. CSadv_delegates_events\CSadv_delegates_events\Task2\obj\Debug\net5.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aidde\source\repos\CSadv_course\4. CSadv_delegates_events\CSadv_delegates_events\Task2\obj\Debug\net5.0\Task2.AssemblyInfoInputs.cache
+C:\Users\aidde\source\repos\CSadv_course\4. CSadv_delegates_events\CSadv_delegates_events\Task2\obj\Debug\net5.0\Task2.AssemblyInfo.cs
+C:\Users\aidde\source\repos\CSadv_course\4. CSadv_delegates_events\CSadv_delegates_events\Task2\obj\Debug\net5.0\Task2.csproj.CoreCompileInputs.cache
+C:\Users\aidde\source\repos\CSadv_course\4. CSadv_delegates_events\CSadv_delegates_events\Task2\obj\Debug\net5.0\Task2.dll
+C:\Users\aidde\source\repos\CSadv_course\4. CSadv_delegates_events\CSadv_delegates_events\Task2\obj\Debug\net5.0\ref\Task2.dll
+C:\Users\aidde\source\repos\CSadv_course\4. CSadv_delegates_events\CSadv_delegates_events\Task2\obj\Debug\net5.0\Task2.pdb
+C:\Users\aidde\source\repos\CSadv_course\4. CSadv_delegates_events\CSadv_delegates_events\Task2\obj\Debug\net5.0\Task2.genruntimeconfig.cache
