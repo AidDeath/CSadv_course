@@ -1,0 +1,66 @@
+           #region Output
+            /*
+
+            Console.WriteLine("\n\tArrayList");
+            foreach (var human in humansArrayList)
+            {
+               Console.WriteLine(human.ToString()); 
+            }
+
+            Console.WriteLine("\n\tHashTable"); 
+            foreach (DictionaryEntry human in humansHashtable)
+            {
+                Console.Write(human.Key + " : "); 
+                Console.WriteLine(human.Value.ToString());
+            }
+
+            Console.WriteLine("\n\tQueue");
+            foreach (var human in humansQueue)
+            {
+                Console.WriteLine(human.ToString());
+            }
+
+            Console.WriteLine("\n\tStack");
+            foreach (var human in humansStack)
+            {
+                Console.WriteLine(human.ToString());
+            }
+
+            Console.WriteLine("\n\tDictionary<IPhoneNumber, IPerson>");
+            foreach (var human in humansDictionary)
+            {
+                Console.Write(human.Key.ToString() + " : ");
+                Console.WriteLine(human.Value.ToString());
+            }
+
+            Console.WriteLine("\n\tQueue<IPerson>");
+            foreach (var human in humansGenericQueue)
+            {
+                Console.WriteLine(human.ToString());
+            }
+
+            Console.WriteLine("\n\tStack<IPerson>");
+            foreach (var human in humansGenericStack)
+            {
+                Console.WriteLine(human.ToString());
+            }
+
+            Console.WriteLine("\n\tHashSet<IPerson>");
+            foreach (var human in humansHashSet)
+            {
+                Console.WriteLine(human.ToString());
+            }
+
+            Console.WriteLine("\n\tLinkedList<IPerson>");
+            foreach (var human in humansLinkedList)
+            {
+                Console.WriteLine(human.ToString());
+            }
+
+            Console.WriteLine("\n\tList<IPerson>");
+            foreach (var human in humansList)
+            {
+                Console.WriteLine(human.ToString());
+            }
+            */
+            #endregion

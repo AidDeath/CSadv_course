@@ -1,0 +1,13 @@
+C:\Users\aidde\source\repos\CSadv_collections\CSadv_collections\bin\Debug\netcoreapp3.1\CSadv_collections.exe
+C:\Users\aidde\source\repos\CSadv_collections\CSadv_collections\bin\Debug\netcoreapp3.1\CSadv_collections.deps.json
+C:\Users\aidde\source\repos\CSadv_collections\CSadv_collections\bin\Debug\netcoreapp3.1\CSadv_collections.runtimeconfig.json
+C:\Users\aidde\source\repos\CSadv_collections\CSadv_collections\bin\Debug\netcoreapp3.1\CSadv_collections.runtimeconfig.dev.json
+C:\Users\aidde\source\repos\CSadv_collections\CSadv_collections\bin\Debug\netcoreapp3.1\CSadv_collections.dll
+C:\Users\aidde\source\repos\CSadv_collections\CSadv_collections\bin\Debug\netcoreapp3.1\CSadv_collections.pdb
+C:\Users\aidde\source\repos\CSadv_collections\CSadv_collections\obj\Debug\netcoreapp3.1\CSadv_collections.csprojAssemblyReference.cache
+C:\Users\aidde\source\repos\CSadv_collections\CSadv_collections\obj\Debug\netcoreapp3.1\CSadv_collections.AssemblyInfoInputs.cache
+C:\Users\aidde\source\repos\CSadv_collections\CSadv_collections\obj\Debug\netcoreapp3.1\CSadv_collections.AssemblyInfo.cs
+C:\Users\aidde\source\repos\CSadv_collections\CSadv_collections\obj\Debug\netcoreapp3.1\CSadv_collections.csproj.CoreCompileInputs.cache
+C:\Users\aidde\source\repos\CSadv_collections\CSadv_collections\obj\Debug\netcoreapp3.1\CSadv_collections.dll
+C:\Users\aidde\source\repos\CSadv_collections\CSadv_collections\obj\Debug\netcoreapp3.1\CSadv_collections.pdb
+C:\Users\aidde\source\repos\CSadv_collections\CSadv_collections\obj\Debug\netcoreapp3.1\CSadv_collections.genruntimeconfig.cache

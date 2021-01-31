@@ -1,0 +1,16 @@
+C:\Users\aidde\source\repos\CSadv_userCollection\UserCollection\bin\Debug\net5.0\UserCollection.exe
+C:\Users\aidde\source\repos\CSadv_userCollection\UserCollection\bin\Debug\net5.0\UserCollection.deps.json
+C:\Users\aidde\source\repos\CSadv_userCollection\UserCollection\bin\Debug\net5.0\UserCollection.runtimeconfig.json
+C:\Users\aidde\source\repos\CSadv_userCollection\UserCollection\bin\Debug\net5.0\UserCollection.runtimeconfig.dev.json
+C:\Users\aidde\source\repos\CSadv_userCollection\UserCollection\bin\Debug\net5.0\UserCollection.dll
+C:\Users\aidde\source\repos\CSadv_userCollection\UserCollection\bin\Debug\net5.0\ref\UserCollection.dll
+C:\Users\aidde\source\repos\CSadv_userCollection\UserCollection\bin\Debug\net5.0\UserCollection.pdb
+C:\Users\aidde\source\repos\CSadv_userCollection\UserCollection\obj\Debug\net5.0\UserCollection.csprojAssemblyReference.cache
+C:\Users\aidde\source\repos\CSadv_userCollection\UserCollection\obj\Debug\net5.0\UserCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aidde\source\repos\CSadv_userCollection\UserCollection\obj\Debug\net5.0\UserCollection.AssemblyInfoInputs.cache
+C:\Users\aidde\source\repos\CSadv_userCollection\UserCollection\obj\Debug\net5.0\UserCollection.AssemblyInfo.cs
+C:\Users\aidde\source\repos\CSadv_userCollection\UserCollection\obj\Debug\net5.0\UserCollection.csproj.CoreCompileInputs.cache
+C:\Users\aidde\source\repos\CSadv_userCollection\UserCollection\obj\Debug\net5.0\UserCollection.dll
+C:\Users\aidde\source\repos\CSadv_userCollection\UserCollection\obj\Debug\net5.0\ref\UserCollection.dll
+C:\Users\aidde\source\repos\CSadv_userCollection\UserCollection\obj\Debug\net5.0\UserCollection.pdb
+C:\Users\aidde\source\repos\CSadv_userCollection\UserCollection\obj\Debug\net5.0\UserCollection.genruntimeconfig.cache
