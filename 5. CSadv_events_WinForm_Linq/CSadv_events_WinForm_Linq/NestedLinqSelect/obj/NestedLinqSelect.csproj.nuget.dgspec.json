@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AidDeath\\source\\repos\\CSadv_course\\5. CSadv_events_WinForm_Linq\\CSadv_events_WinForm_Linq\\Calculator\\Calculator.csproj": {}
+    "C:\\Users\\AidDeath\\source\\repos\\CSadv_course\\5. CSadv_events_WinForm_Linq\\CSadv_events_WinForm_Linq\\NestedLinqSelect\\NestedLinqSelect.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AidDeath\\source\\repos\\CSadv_course\\5. CSadv_events_WinForm_Linq\\CSadv_events_WinForm_Linq\\Calculator\\Calculator.csproj": {
+    "C:\\Users\\AidDeath\\source\\repos\\CSadv_course\\5. CSadv_events_WinForm_Linq\\CSadv_events_WinForm_Linq\\NestedLinqSelect\\NestedLinqSelect.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AidDeath\\source\\repos\\CSadv_course\\5. CSadv_events_WinForm_Linq\\CSadv_events_WinForm_Linq\\Calculator\\Calculator.csproj",
-        "projectName": "Calculator",
-        "projectPath": "C:\\Users\\AidDeath\\source\\repos\\CSadv_course\\5. CSadv_events_WinForm_Linq\\CSadv_events_WinForm_Linq\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\AidDeath\\source\\repos\\CSadv_course\\5. CSadv_events_WinForm_Linq\\CSadv_events_WinForm_Linq\\NestedLinqSelect\\NestedLinqSelect.csproj",
+        "projectName": "NestedLinqSelect",
+        "projectPath": "C:\\Users\\AidDeath\\source\\repos\\CSadv_course\\5. CSadv_events_WinForm_Linq\\CSadv_events_WinForm_Linq\\NestedLinqSelect\\NestedLinqSelect.csproj",
         "packagesPath": "C:\\Users\\AidDeath\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AidDeath\\source\\repos\\CSadv_course\\5. CSadv_events_WinForm_Linq\\CSadv_events_WinForm_Linq\\Calculator\\obj\\",
+        "outputPath": "C:\\Users\\AidDeath\\source\\repos\\CSadv_course\\5. CSadv_events_WinForm_Linq\\CSadv_events_WinForm_Linq\\NestedLinqSelect\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -21,15 +21,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0-windows7.0"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://www.nuget.org/api/v2/": {}
         },
         "frameworks": {
-          "net5.0-windows7.0": {
-            "targetAlias": "net5.0-windows",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -40,8 +40,8 @@
         }
       },
       "frameworks": {
-        "net5.0-windows7.0": {
-          "targetAlias": "net5.0-windows",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",
@@ -55,9 +55,6 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
-            },
-            "Microsoft.WindowsDesktop.App.WindowsForms": {
-              "privateAssets": "none"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"

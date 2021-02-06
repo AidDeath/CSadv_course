@@ -13,7 +13,6 @@ namespace Calculator
     public partial class MainForm : Form
     {
         private Calc calc;
-
         private void OperationButtonClick(object sender, EventArgs e)
         {
             switch (((Button)sender).Text)
@@ -34,27 +33,18 @@ namespace Calculator
             
             screen.Text += ((Button)sender).Text;
         }
-
         //Нажата кнопка с цифрой
         private void NumericButtonClick(object sender, EventArgs e)
         {
             if (screen.Text.Contains('=') || screen.Text.Contains("ERROR")) screen.Text = "";
             screen.Text += ((Button)sender).Text;
         }
-
-        public MainForm()
-        {
-            InitializeComponent();
-            calc = new Calc();
-            
-        }
-
         private void buttonEquals_Click(object sender, EventArgs e)
         {
             try
             {
-                double a = double.Parse(screen.Text.Substring(0, screen.Text.IndexOfAny(new[] {'+', '-', '*', '/'})));
-                double b = double.Parse(screen.Text.Substring(screen.Text.IndexOfAny(new[] {'+', '-', '*', '/'})+1));
+                double a = double.Parse(screen.Text.Substring(0, screen.Text.IndexOfAny(new[] { '+', '-', '*', '/' })));
+                double b = double.Parse(screen.Text.Substring(screen.Text.IndexOfAny(new[] { '+', '-', '*', '/' }) + 1));
 
                 calc.FirstValue = a;
                 calc.SecondValue = b;
@@ -69,6 +59,13 @@ namespace Calculator
                 calc = new Calc();
             }
         }
+        public MainForm()
+        {
+            InitializeComponent();
+            calc = new Calc();
+        }
+
+
 
     }
 }

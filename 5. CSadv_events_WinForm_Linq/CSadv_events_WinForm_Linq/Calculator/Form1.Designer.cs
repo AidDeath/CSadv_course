@@ -249,9 +249,12 @@ namespace Calculator
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(316, 380);
+            this.ClientSize = new System.Drawing.Size(306, 380);
             this.Controls.Add(this.screen);
             this.Controls.Add(this.flowLayoutPanel1);
+            this.MaximizeBox = false;
+            this.MaximumSize = new System.Drawing.Size(322, 419);
+            this.MinimumSize = new System.Drawing.Size(322, 419);
             this.Name = "MainForm";
             this.Text = "MyCalculator";
             this.flowLayoutPanel1.ResumeLayout(false);
