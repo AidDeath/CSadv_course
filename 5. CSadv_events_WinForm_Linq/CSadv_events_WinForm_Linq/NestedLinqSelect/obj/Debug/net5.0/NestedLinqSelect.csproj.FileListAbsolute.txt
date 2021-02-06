@@ -1,0 +1,16 @@
+C:\Users\aidde\source\repos\CSadv_course\5. CSadv_events_WinForm_Linq\CSadv_events_WinForm_Linq\NestedLinqSelect\bin\Debug\net5.0\NestedLinqSelect.exe
+C:\Users\aidde\source\repos\CSadv_course\5. CSadv_events_WinForm_Linq\CSadv_events_WinForm_Linq\NestedLinqSelect\bin\Debug\net5.0\NestedLinqSelect.deps.json
+C:\Users\aidde\source\repos\CSadv_course\5. CSadv_events_WinForm_Linq\CSadv_events_WinForm_Linq\NestedLinqSelect\bin\Debug\net5.0\NestedLinqSelect.runtimeconfig.json
+C:\Users\aidde\source\repos\CSadv_course\5. CSadv_events_WinForm_Linq\CSadv_events_WinForm_Linq\NestedLinqSelect\bin\Debug\net5.0\NestedLinqSelect.runtimeconfig.dev.json
+C:\Users\aidde\source\repos\CSadv_course\5. CSadv_events_WinForm_Linq\CSadv_events_WinForm_Linq\NestedLinqSelect\bin\Debug\net5.0\NestedLinqSelect.dll
+C:\Users\aidde\source\repos\CSadv_course\5. CSadv_events_WinForm_Linq\CSadv_events_WinForm_Linq\NestedLinqSelect\bin\Debug\net5.0\ref\NestedLinqSelect.dll
+C:\Users\aidde\source\repos\CSadv_course\5. CSadv_events_WinForm_Linq\CSadv_events_WinForm_Linq\NestedLinqSelect\bin\Debug\net5.0\NestedLinqSelect.pdb
+C:\Users\aidde\source\repos\CSadv_course\5. CSadv_events_WinForm_Linq\CSadv_events_WinForm_Linq\NestedLinqSelect\obj\Debug\net5.0\NestedLinqSelect.csprojAssemblyReference.cache
+C:\Users\aidde\source\repos\CSadv_course\5. CSadv_events_WinForm_Linq\CSadv_events_WinForm_Linq\NestedLinqSelect\obj\Debug\net5.0\NestedLinqSelect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aidde\source\repos\CSadv_course\5. CSadv_events_WinForm_Linq\CSadv_events_WinForm_Linq\NestedLinqSelect\obj\Debug\net5.0\NestedLinqSelect.AssemblyInfoInputs.cache
+C:\Users\aidde\source\repos\CSadv_course\5. CSadv_events_WinForm_Linq\CSadv_events_WinForm_Linq\NestedLinqSelect\obj\Debug\net5.0\NestedLinqSelect.AssemblyInfo.cs
+C:\Users\aidde\source\repos\CSadv_course\5. CSadv_events_WinForm_Linq\CSadv_events_WinForm_Linq\NestedLinqSelect\obj\Debug\net5.0\NestedLinqSelect.csproj.CoreCompileInputs.cache
+C:\Users\aidde\source\repos\CSadv_course\5. CSadv_events_WinForm_Linq\CSadv_events_WinForm_Linq\NestedLinqSelect\obj\Debug\net5.0\NestedLinqSelect.dll
+C:\Users\aidde\source\repos\CSadv_course\5. CSadv_events_WinForm_Linq\CSadv_events_WinForm_Linq\NestedLinqSelect\obj\Debug\net5.0\ref\NestedLinqSelect.dll
+C:\Users\aidde\source\repos\CSadv_course\5. CSadv_events_WinForm_Linq\CSadv_events_WinForm_Linq\NestedLinqSelect\obj\Debug\net5.0\NestedLinqSelect.pdb
+C:\Users\aidde\source\repos\CSadv_course\5. CSadv_events_WinForm_Linq\CSadv_events_WinForm_Linq\NestedLinqSelect\obj\Debug\net5.0\NestedLinqSelect.genruntimeconfig.cache
