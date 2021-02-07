@@ -1,0 +1,15 @@
+C:\Users\AidDeath\source\repos\CSadv_course\6. CSadv_Linq_ADO.NET\CSadv_Linq_ADO.NET\Linq_anonType\bin\Debug\net5.0\1.Linq_anonType.exe
+C:\Users\AidDeath\source\repos\CSadv_course\6. CSadv_Linq_ADO.NET\CSadv_Linq_ADO.NET\Linq_anonType\bin\Debug\net5.0\1.Linq_anonType.deps.json
+C:\Users\AidDeath\source\repos\CSadv_course\6. CSadv_Linq_ADO.NET\CSadv_Linq_ADO.NET\Linq_anonType\bin\Debug\net5.0\1.Linq_anonType.runtimeconfig.json
+C:\Users\AidDeath\source\repos\CSadv_course\6. CSadv_Linq_ADO.NET\CSadv_Linq_ADO.NET\Linq_anonType\bin\Debug\net5.0\1.Linq_anonType.runtimeconfig.dev.json
+C:\Users\AidDeath\source\repos\CSadv_course\6. CSadv_Linq_ADO.NET\CSadv_Linq_ADO.NET\Linq_anonType\bin\Debug\net5.0\1.Linq_anonType.dll
+C:\Users\AidDeath\source\repos\CSadv_course\6. CSadv_Linq_ADO.NET\CSadv_Linq_ADO.NET\Linq_anonType\bin\Debug\net5.0\ref\1.Linq_anonType.dll
+C:\Users\AidDeath\source\repos\CSadv_course\6. CSadv_Linq_ADO.NET\CSadv_Linq_ADO.NET\Linq_anonType\bin\Debug\net5.0\1.Linq_anonType.pdb
+C:\Users\AidDeath\source\repos\CSadv_course\6. CSadv_Linq_ADO.NET\CSadv_Linq_ADO.NET\Linq_anonType\obj\Debug\net5.0\1.Linq_anonType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AidDeath\source\repos\CSadv_course\6. CSadv_Linq_ADO.NET\CSadv_Linq_ADO.NET\Linq_anonType\obj\Debug\net5.0\1.Linq_anonType.AssemblyInfoInputs.cache
+C:\Users\AidDeath\source\repos\CSadv_course\6. CSadv_Linq_ADO.NET\CSadv_Linq_ADO.NET\Linq_anonType\obj\Debug\net5.0\1.Linq_anonType.AssemblyInfo.cs
+C:\Users\AidDeath\source\repos\CSadv_course\6. CSadv_Linq_ADO.NET\CSadv_Linq_ADO.NET\Linq_anonType\obj\Debug\net5.0\1.Linq_anonType.csproj.CoreCompileInputs.cache
+C:\Users\AidDeath\source\repos\CSadv_course\6. CSadv_Linq_ADO.NET\CSadv_Linq_ADO.NET\Linq_anonType\obj\Debug\net5.0\1.Linq_anonType.dll
+C:\Users\AidDeath\source\repos\CSadv_course\6. CSadv_Linq_ADO.NET\CSadv_Linq_ADO.NET\Linq_anonType\obj\Debug\net5.0\ref\1.Linq_anonType.dll
+C:\Users\AidDeath\source\repos\CSadv_course\6. CSadv_Linq_ADO.NET\CSadv_Linq_ADO.NET\Linq_anonType\obj\Debug\net5.0\1.Linq_anonType.pdb
+C:\Users\AidDeath\source\repos\CSadv_course\6. CSadv_Linq_ADO.NET\CSadv_Linq_ADO.NET\Linq_anonType\obj\Debug\net5.0\1.Linq_anonType.genruntimeconfig.cache

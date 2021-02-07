@@ -1,0 +1,16 @@
+C:\Users\AidDeath\source\repos\CSadv_course\6. CSadv_Linq_ADO.NET\CSadv_Linq_ADO.NET\JoinToOwnStruct\obj\Debug\net5.0\2.JoinToOwnStruct.csprojAssemblyReference.cache
+C:\Users\AidDeath\source\repos\CSadv_course\6. CSadv_Linq_ADO.NET\CSadv_Linq_ADO.NET\JoinToOwnStruct\obj\Debug\net5.0\2.JoinToOwnStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AidDeath\source\repos\CSadv_course\6. CSadv_Linq_ADO.NET\CSadv_Linq_ADO.NET\JoinToOwnStruct\obj\Debug\net5.0\2.JoinToOwnStruct.AssemblyInfoInputs.cache
+C:\Users\AidDeath\source\repos\CSadv_course\6. CSadv_Linq_ADO.NET\CSadv_Linq_ADO.NET\JoinToOwnStruct\obj\Debug\net5.0\2.JoinToOwnStruct.AssemblyInfo.cs
+C:\Users\AidDeath\source\repos\CSadv_course\6. CSadv_Linq_ADO.NET\CSadv_Linq_ADO.NET\JoinToOwnStruct\obj\Debug\net5.0\2.JoinToOwnStruct.csproj.CoreCompileInputs.cache
+C:\Users\AidDeath\source\repos\CSadv_course\6. CSadv_Linq_ADO.NET\CSadv_Linq_ADO.NET\JoinToOwnStruct\bin\Debug\net5.0\2.JoinToOwnStruct.exe
+C:\Users\AidDeath\source\repos\CSadv_course\6. CSadv_Linq_ADO.NET\CSadv_Linq_ADO.NET\JoinToOwnStruct\bin\Debug\net5.0\2.JoinToOwnStruct.deps.json
+C:\Users\AidDeath\source\repos\CSadv_course\6. CSadv_Linq_ADO.NET\CSadv_Linq_ADO.NET\JoinToOwnStruct\bin\Debug\net5.0\2.JoinToOwnStruct.runtimeconfig.json
+C:\Users\AidDeath\source\repos\CSadv_course\6. CSadv_Linq_ADO.NET\CSadv_Linq_ADO.NET\JoinToOwnStruct\bin\Debug\net5.0\2.JoinToOwnStruct.runtimeconfig.dev.json
+C:\Users\AidDeath\source\repos\CSadv_course\6. CSadv_Linq_ADO.NET\CSadv_Linq_ADO.NET\JoinToOwnStruct\bin\Debug\net5.0\2.JoinToOwnStruct.dll
+C:\Users\AidDeath\source\repos\CSadv_course\6. CSadv_Linq_ADO.NET\CSadv_Linq_ADO.NET\JoinToOwnStruct\bin\Debug\net5.0\ref\2.JoinToOwnStruct.dll
+C:\Users\AidDeath\source\repos\CSadv_course\6. CSadv_Linq_ADO.NET\CSadv_Linq_ADO.NET\JoinToOwnStruct\bin\Debug\net5.0\2.JoinToOwnStruct.pdb
+C:\Users\AidDeath\source\repos\CSadv_course\6. CSadv_Linq_ADO.NET\CSadv_Linq_ADO.NET\JoinToOwnStruct\obj\Debug\net5.0\2.JoinToOwnStruct.dll
+C:\Users\AidDeath\source\repos\CSadv_course\6. CSadv_Linq_ADO.NET\CSadv_Linq_ADO.NET\JoinToOwnStruct\obj\Debug\net5.0\ref\2.JoinToOwnStruct.dll
+C:\Users\AidDeath\source\repos\CSadv_course\6. CSadv_Linq_ADO.NET\CSadv_Linq_ADO.NET\JoinToOwnStruct\obj\Debug\net5.0\2.JoinToOwnStruct.pdb
+C:\Users\AidDeath\source\repos\CSadv_course\6. CSadv_Linq_ADO.NET\CSadv_Linq_ADO.NET\JoinToOwnStruct\obj\Debug\net5.0\2.JoinToOwnStruct.genruntimeconfig.cache
