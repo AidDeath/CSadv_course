@@ -8,23 +8,23 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\AidDeath\\.nuget\\packages\\": {},
+    "C:\\Users\\aidde\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AidDeath\\source\\repos\\CSadv_course\\6. CSadv_Linq_ADO.NET\\CSadv_Linq_ADO.NET\\Linq_anonType\\1.Linq_anonType.csproj",
+      "projectUniqueName": "C:\\Users\\aidde\\source\\repos\\CSadv_course\\6. CSadv_Linq_ADO.NET\\CSadv_Linq_ADO.NET\\Linq_anonType\\1.Linq_anonType.csproj",
       "projectName": "1.Linq_anonType",
-      "projectPath": "C:\\Users\\AidDeath\\source\\repos\\CSadv_course\\6. CSadv_Linq_ADO.NET\\CSadv_Linq_ADO.NET\\Linq_anonType\\1.Linq_anonType.csproj",
-      "packagesPath": "C:\\Users\\AidDeath\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AidDeath\\source\\repos\\CSadv_course\\6. CSadv_Linq_ADO.NET\\CSadv_Linq_ADO.NET\\Linq_anonType\\obj\\",
+      "projectPath": "C:\\Users\\aidde\\source\\repos\\CSadv_course\\6. CSadv_Linq_ADO.NET\\CSadv_Linq_ADO.NET\\Linq_anonType\\1.Linq_anonType.csproj",
+      "packagesPath": "C:\\Users\\aidde\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\aidde\\source\\repos\\CSadv_course\\6. CSadv_Linq_ADO.NET\\CSadv_Linq_ADO.NET\\Linq_anonType\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\AidDeath\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\aidde\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -32,7 +32,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://www.nuget.org/api/v2/": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
