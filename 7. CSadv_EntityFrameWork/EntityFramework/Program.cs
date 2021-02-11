@@ -7,14 +7,10 @@ namespace EntityFramework
     {
         static void Main(string[] args)
         {
-           
-            var a = ConfigurationManager.ConnectionStrings["connStr"].ConnectionString;
-
             BookContext bookContext = new BookContext();
-            foreach (var book in BookRepository.GetBooks())
-            {
-                bookContext.Books.Add(book);
-            }
+            bookContext.Books.AddRange(BookRepository.GetBooks());
+
+            Console.WriteLine($"{bookContext.SaveChanges()} entities written to db");
         }
     }
 }

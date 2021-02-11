@@ -15,10 +15,11 @@ namespace EntityFramework
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            // optionsBuilder.UseSqlServer("Data Source=localhost\\sql;Initial Catalog=Characters;Integrated Security=True");
-            // optionsBuilder.UseSqlServer(ConfigurationManager.ConnectionStrings["connStr"].ConnectionString);
-            optionsBuilder.UseSqlServer(ConfigurationManager.AppSettings["connStr"]);
+            //var connStr = ConfigurationManager.ConnectionStrings["connStr"].ConnectionString;
+            // При работе программы тут строка, при выполнении Add-Migration - null
 
+            optionsBuilder.UseSqlServer(ConfigurationManager.ConnectionStrings["connStr"].ConnectionString);
+            //optionsBuilder.UseSqlServer("Server=localhost\\sql;Database=Books;Integrated Security=True");
         }
     }
 }
