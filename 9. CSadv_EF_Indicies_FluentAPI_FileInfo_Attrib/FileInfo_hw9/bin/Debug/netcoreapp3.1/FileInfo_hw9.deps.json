@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FileInfo_hw9/1.0.0": {
+        "runtime": {
+          "FileInfo_hw9.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FileInfo_hw9/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

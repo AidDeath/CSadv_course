@@ -1,0 +1,16 @@
+C:\Users\aidde\source\repos\CSadv_course\9. CSadv_EF_Indicies_FluentAPI_FileInfo_Attrib\Attribute_hw9\bin\Debug\net5.0\Attribute_hw9.exe
+C:\Users\aidde\source\repos\CSadv_course\9. CSadv_EF_Indicies_FluentAPI_FileInfo_Attrib\Attribute_hw9\bin\Debug\net5.0\Attribute_hw9.deps.json
+C:\Users\aidde\source\repos\CSadv_course\9. CSadv_EF_Indicies_FluentAPI_FileInfo_Attrib\Attribute_hw9\bin\Debug\net5.0\Attribute_hw9.runtimeconfig.json
+C:\Users\aidde\source\repos\CSadv_course\9. CSadv_EF_Indicies_FluentAPI_FileInfo_Attrib\Attribute_hw9\bin\Debug\net5.0\Attribute_hw9.runtimeconfig.dev.json
+C:\Users\aidde\source\repos\CSadv_course\9. CSadv_EF_Indicies_FluentAPI_FileInfo_Attrib\Attribute_hw9\bin\Debug\net5.0\Attribute_hw9.dll
+C:\Users\aidde\source\repos\CSadv_course\9. CSadv_EF_Indicies_FluentAPI_FileInfo_Attrib\Attribute_hw9\bin\Debug\net5.0\ref\Attribute_hw9.dll
+C:\Users\aidde\source\repos\CSadv_course\9. CSadv_EF_Indicies_FluentAPI_FileInfo_Attrib\Attribute_hw9\bin\Debug\net5.0\Attribute_hw9.pdb
+C:\Users\aidde\source\repos\CSadv_course\9. CSadv_EF_Indicies_FluentAPI_FileInfo_Attrib\Attribute_hw9\obj\Debug\net5.0\Attribute_hw9.csprojAssemblyReference.cache
+C:\Users\aidde\source\repos\CSadv_course\9. CSadv_EF_Indicies_FluentAPI_FileInfo_Attrib\Attribute_hw9\obj\Debug\net5.0\Attribute_hw9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aidde\source\repos\CSadv_course\9. CSadv_EF_Indicies_FluentAPI_FileInfo_Attrib\Attribute_hw9\obj\Debug\net5.0\Attribute_hw9.AssemblyInfoInputs.cache
+C:\Users\aidde\source\repos\CSadv_course\9. CSadv_EF_Indicies_FluentAPI_FileInfo_Attrib\Attribute_hw9\obj\Debug\net5.0\Attribute_hw9.AssemblyInfo.cs
+C:\Users\aidde\source\repos\CSadv_course\9. CSadv_EF_Indicies_FluentAPI_FileInfo_Attrib\Attribute_hw9\obj\Debug\net5.0\Attribute_hw9.csproj.CoreCompileInputs.cache
+C:\Users\aidde\source\repos\CSadv_course\9. CSadv_EF_Indicies_FluentAPI_FileInfo_Attrib\Attribute_hw9\obj\Debug\net5.0\Attribute_hw9.dll
+C:\Users\aidde\source\repos\CSadv_course\9. CSadv_EF_Indicies_FluentAPI_FileInfo_Attrib\Attribute_hw9\obj\Debug\net5.0\ref\Attribute_hw9.dll
+C:\Users\aidde\source\repos\CSadv_course\9. CSadv_EF_Indicies_FluentAPI_FileInfo_Attrib\Attribute_hw9\obj\Debug\net5.0\Attribute_hw9.pdb
+C:\Users\aidde\source\repos\CSadv_course\9. CSadv_EF_Indicies_FluentAPI_FileInfo_Attrib\Attribute_hw9\obj\Debug\net5.0\Attribute_hw9.genruntimeconfig.cache
