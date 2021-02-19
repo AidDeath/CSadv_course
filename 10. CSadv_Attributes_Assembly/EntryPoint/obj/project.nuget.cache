@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KIFyn66Yv7ArHS57MTvifx0FIACKsYMhAVyV9puMVyF6HkN75g6g3oS2irEAyBG9IMrhIuUDb9LfKofNJ1S+zQ==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\aidde\\source\\repos\\CSadv_course\\10. CSadv_Attributes_Assembly\\EntryPoint\\EntryPoint.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aidde\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

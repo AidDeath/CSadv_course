@@ -1,0 +1,147 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "System.Text.Json/5.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.0/System.Text.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/System.Text.Json.dll": {}
+        }
+      },
+      "AttributesDll/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/AttributesDll.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AttributesDll.dll": {}
+        }
+      },
+      "SerializationDll/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "System.Text.Json": "5.0.1"
+        },
+        "compile": {
+          "bin/placeholder/SerializationDll.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SerializationDll.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "System.Text.Json/5.0.1": {
+      "sha512": "/UM3UK1dXKl8Ybysg/21gM4S8DJgkR+yLU8JwqCVbuNqQNImelntgYFAN5QxR8sJJ1kMx//hOUdf0lltosi8cQ==",
+      "type": "package",
+      "path": "system.text.json/5.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/System.Text.Json.dll",
+        "lib/net461/System.Text.Json.xml",
+        "lib/netcoreapp3.0/System.Text.Json.dll",
+        "lib/netcoreapp3.0/System.Text.Json.xml",
+        "lib/netstandard2.0/System.Text.Json.dll",
+        "lib/netstandard2.0/System.Text.Json.xml",
+        "system.text.json.5.0.1.nupkg.sha512",
+        "system.text.json.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "AttributesDll/1.0.0": {
+      "type": "project",
+      "path": "../Attributes/AttributesDll.csproj",
+      "msbuildProject": "../Attributes/AttributesDll.csproj"
+    },
+    "SerializationDll/1.0.0": {
+      "type": "project",
+      "path": "../Serialization/SerializationDll.csproj",
+      "msbuildProject": "../Serialization/SerializationDll.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "AttributesDll >= 1.0.0",
+      "SerializationDll >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\aidde\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "c:\\Users\\aidde\\source\\repos\\CSadv_course\\10. CSadv_Attributes_Assembly\\EntryPoint\\EntryPoint.csproj",
+      "projectName": "EntryPoint",
+      "projectPath": "c:\\Users\\aidde\\source\\repos\\CSadv_course\\10. CSadv_Attributes_Assembly\\EntryPoint\\EntryPoint.csproj",
+      "packagesPath": "C:\\Users\\aidde\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\aidde\\source\\repos\\CSadv_course\\10. CSadv_Attributes_Assembly\\EntryPoint\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\aidde\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "c:\\Users\\aidde\\source\\repos\\CSadv_course\\10. CSadv_Attributes_Assembly\\Attributes\\AttributesDll.csproj": {
+              "projectPath": "c:\\Users\\aidde\\source\\repos\\CSadv_course\\10. CSadv_Attributes_Assembly\\Attributes\\AttributesDll.csproj"
+            },
+            "c:\\Users\\aidde\\source\\repos\\CSadv_course\\10. CSadv_Attributes_Assembly\\Serialization\\SerializationDll.csproj": {
+              "projectPath": "c:\\Users\\aidde\\source\\repos\\CSadv_course\\10. CSadv_Attributes_Assembly\\Serialization\\SerializationDll.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

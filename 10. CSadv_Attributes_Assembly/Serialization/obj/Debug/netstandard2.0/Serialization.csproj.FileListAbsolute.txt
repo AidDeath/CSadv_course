@@ -1,0 +1,9 @@
+C:\Users\aidde\source\repos\CSadv_course\10. CSadv_Attributes_Assembly\Serialization\bin\Debug\netstandard2.0\Serialization.deps.json
+C:\Users\aidde\source\repos\CSadv_course\10. CSadv_Attributes_Assembly\Serialization\bin\Debug\netstandard2.0\Serialization.dll
+C:\Users\aidde\source\repos\CSadv_course\10. CSadv_Attributes_Assembly\Serialization\bin\Debug\netstandard2.0\Serialization.pdb
+C:\Users\aidde\source\repos\CSadv_course\10. CSadv_Attributes_Assembly\Serialization\obj\Debug\netstandard2.0\Serialization.csprojAssemblyReference.cache
+C:\Users\aidde\source\repos\CSadv_course\10. CSadv_Attributes_Assembly\Serialization\obj\Debug\netstandard2.0\Serialization.AssemblyInfoInputs.cache
+C:\Users\aidde\source\repos\CSadv_course\10. CSadv_Attributes_Assembly\Serialization\obj\Debug\netstandard2.0\Serialization.AssemblyInfo.cs
+C:\Users\aidde\source\repos\CSadv_course\10. CSadv_Attributes_Assembly\Serialization\obj\Debug\netstandard2.0\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\aidde\source\repos\CSadv_course\10. CSadv_Attributes_Assembly\Serialization\obj\Debug\netstandard2.0\Serialization.dll
+C:\Users\aidde\source\repos\CSadv_course\10. CSadv_Attributes_Assembly\Serialization\obj\Debug\netstandard2.0\Serialization.pdb

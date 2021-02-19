@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nHiBmUpVMe2rVCnwZpELpyJx2OoFwP9H1fTsDO7Gm7KU7Nhu1DCDCueaQKs42qPuL1tPDKwceEohHlwXL8cPSA==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\aidde\\source\\repos\\CSadv_course\\10. CSadv_Attributes_Assembly\\AssemblyDll\\AssemblyDll.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aidde\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

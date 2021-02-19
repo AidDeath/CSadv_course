@@ -1,0 +1,9 @@
+C:\Users\aidde\source\repos\CSadv_course\10. CSadv_Attributes_Assembly\Attributes\bin\Debug\netcoreapp3.1\AttributesDll.deps.json
+C:\Users\aidde\source\repos\CSadv_course\10. CSadv_Attributes_Assembly\Attributes\bin\Debug\netcoreapp3.1\AttributesDll.dll
+C:\Users\aidde\source\repos\CSadv_course\10. CSadv_Attributes_Assembly\Attributes\bin\Debug\netcoreapp3.1\AttributesDll.pdb
+C:\Users\aidde\source\repos\CSadv_course\10. CSadv_Attributes_Assembly\Attributes\obj\Debug\netcoreapp3.1\AttributesDll.csprojAssemblyReference.cache
+C:\Users\aidde\source\repos\CSadv_course\10. CSadv_Attributes_Assembly\Attributes\obj\Debug\netcoreapp3.1\AttributesDll.AssemblyInfoInputs.cache
+C:\Users\aidde\source\repos\CSadv_course\10. CSadv_Attributes_Assembly\Attributes\obj\Debug\netcoreapp3.1\AttributesDll.AssemblyInfo.cs
+C:\Users\aidde\source\repos\CSadv_course\10. CSadv_Attributes_Assembly\Attributes\obj\Debug\netcoreapp3.1\AttributesDll.csproj.CoreCompileInputs.cache
+C:\Users\aidde\source\repos\CSadv_course\10. CSadv_Attributes_Assembly\Attributes\obj\Debug\netcoreapp3.1\AttributesDll.dll
+C:\Users\aidde\source\repos\CSadv_course\10. CSadv_Attributes_Assembly\Attributes\obj\Debug\netcoreapp3.1\AttributesDll.pdb
