@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "0ZVYQLrrmDMwNH3cxda3gpev2BNtas702VKUvWsaStQxtpRIlYldyjYZeWXlGF0TXObujV49yDAowRNUBNriqA==",
+  "dgSpecHash": "cP7+HbH1rxXClmfy5ARkv54C+KaBQHVrelmeGfCWCruLr5pY31VtdarvrHbpalDxhrCdr195CTQS0y1ZDnAF1Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aidde\\source\\repos\\CSadv_course\\2.OrderedOutput\\2.OrderedOutput.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\AidDeath\\source\\repos\\CSadv_course\\11. CSadv_Threading\\2.OrderedOutput\\2.OrderedOutput.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AidDeath\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
   "logs": []
 }

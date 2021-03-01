@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ITSfqXhqzuD42sZSoN6Y118UEVWkm8cn2D0fNtcKNGt9Mz6tk/GASOeAJosK282PI7rAb0XC6zErcrhey1ZFWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AidDeath\\source\\repos\\CSadv_course\\11. CSadv_Threading\\1. BankAccount\\1. BankAccount.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AidDeath\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}

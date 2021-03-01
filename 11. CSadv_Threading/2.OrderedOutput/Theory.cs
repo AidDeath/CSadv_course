@@ -6,15 +6,50 @@ using System.Threading.Tasks;
 
 namespace _2.OrderedOutput
 {
-    public static class Theory
+    public class Theory
     {
-       private static Thread threadOne = new Thread(Speak.SayOne);
-       private static Thread threadTwo = new Thread(Speak.SayTwo);
-       private static Thread threadThree = new Thread(Speak.SayThree);
-        
+        private static int _currentMethod;
+        private static readonly object _locker = new object();
+
+        public Theory()
+        {
+            _currentMethod = 0;
+        }
+
         public static void One()
         {
-            Task Task = Task.Run(Speak.SayOne);
+            lock (_locker)
+            {
+                if (_currentMethod == 0)
+                {
+                    _currentMethod = 1;
+                    Speak.SayOne();
+                }
+            }
         }
-      }
+
+        public static void Two()
+        {
+            lock (_locker)
+            {
+                if (_currentMethod == 1)
+                {
+                    _currentMethod = 2;
+                    Speak.SayTwo();
+                }
+            }
+        }
+
+        public static void Three()
+        {
+            lock (_locker)
+            {
+                if (_currentMethod == 2)
+                {
+                    _currentMethod = 0;
+                   Speak.SayThree();
+                }
+            }
+        }
+    }
 }
