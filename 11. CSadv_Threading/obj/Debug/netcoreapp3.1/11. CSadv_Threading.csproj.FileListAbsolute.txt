@@ -1,0 +1,13 @@
+C:\Users\aidde\source\repos\CSadv_course\11. CSadv_Threading\obj\Debug\netcoreapp3.1\11. CSadv_Threading.csprojAssemblyReference.cache
+C:\Users\aidde\source\repos\CSadv_course\11. CSadv_Threading\obj\Debug\netcoreapp3.1\11. CSadv_Threading.AssemblyInfoInputs.cache
+C:\Users\aidde\source\repos\CSadv_course\11. CSadv_Threading\obj\Debug\netcoreapp3.1\11. CSadv_Threading.AssemblyInfo.cs
+C:\Users\aidde\source\repos\CSadv_course\11. CSadv_Threading\obj\Debug\netcoreapp3.1\11. CSadv_Threading.csproj.CoreCompileInputs.cache
+C:\Users\aidde\source\repos\CSadv_course\11. CSadv_Threading\bin\Debug\netcoreapp3.1\11. CSadv_Threading.exe
+C:\Users\aidde\source\repos\CSadv_course\11. CSadv_Threading\bin\Debug\netcoreapp3.1\11. CSadv_Threading.deps.json
+C:\Users\aidde\source\repos\CSadv_course\11. CSadv_Threading\bin\Debug\netcoreapp3.1\11. CSadv_Threading.runtimeconfig.json
+C:\Users\aidde\source\repos\CSadv_course\11. CSadv_Threading\bin\Debug\netcoreapp3.1\11. CSadv_Threading.runtimeconfig.dev.json
+C:\Users\aidde\source\repos\CSadv_course\11. CSadv_Threading\bin\Debug\netcoreapp3.1\11. CSadv_Threading.dll
+C:\Users\aidde\source\repos\CSadv_course\11. CSadv_Threading\bin\Debug\netcoreapp3.1\11. CSadv_Threading.pdb
+C:\Users\aidde\source\repos\CSadv_course\11. CSadv_Threading\obj\Debug\netcoreapp3.1\11. CSadv_Threading.dll
+C:\Users\aidde\source\repos\CSadv_course\11. CSadv_Threading\obj\Debug\netcoreapp3.1\11. CSadv_Threading.pdb
+C:\Users\aidde\source\repos\CSadv_course\11. CSadv_Threading\obj\Debug\netcoreapp3.1\11. CSadv_Threading.genruntimeconfig.cache

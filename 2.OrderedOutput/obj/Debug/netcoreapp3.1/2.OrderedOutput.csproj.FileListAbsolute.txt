@@ -1,0 +1,13 @@
+C:\Users\aidde\source\repos\CSadv_course\2.OrderedOutput\bin\Debug\netcoreapp3.1\2.OrderedOutput.exe
+C:\Users\aidde\source\repos\CSadv_course\2.OrderedOutput\bin\Debug\netcoreapp3.1\2.OrderedOutput.deps.json
+C:\Users\aidde\source\repos\CSadv_course\2.OrderedOutput\bin\Debug\netcoreapp3.1\2.OrderedOutput.runtimeconfig.json
+C:\Users\aidde\source\repos\CSadv_course\2.OrderedOutput\bin\Debug\netcoreapp3.1\2.OrderedOutput.runtimeconfig.dev.json
+C:\Users\aidde\source\repos\CSadv_course\2.OrderedOutput\bin\Debug\netcoreapp3.1\2.OrderedOutput.dll
+C:\Users\aidde\source\repos\CSadv_course\2.OrderedOutput\bin\Debug\netcoreapp3.1\2.OrderedOutput.pdb
+C:\Users\aidde\source\repos\CSadv_course\2.OrderedOutput\obj\Debug\netcoreapp3.1\2.OrderedOutput.csprojAssemblyReference.cache
+C:\Users\aidde\source\repos\CSadv_course\2.OrderedOutput\obj\Debug\netcoreapp3.1\2.OrderedOutput.AssemblyInfoInputs.cache
+C:\Users\aidde\source\repos\CSadv_course\2.OrderedOutput\obj\Debug\netcoreapp3.1\2.OrderedOutput.AssemblyInfo.cs
+C:\Users\aidde\source\repos\CSadv_course\2.OrderedOutput\obj\Debug\netcoreapp3.1\2.OrderedOutput.csproj.CoreCompileInputs.cache
+C:\Users\aidde\source\repos\CSadv_course\2.OrderedOutput\obj\Debug\netcoreapp3.1\2.OrderedOutput.dll
+C:\Users\aidde\source\repos\CSadv_course\2.OrderedOutput\obj\Debug\netcoreapp3.1\2.OrderedOutput.pdb
+C:\Users\aidde\source\repos\CSadv_course\2.OrderedOutput\obj\Debug\netcoreapp3.1\2.OrderedOutput.genruntimeconfig.cache
